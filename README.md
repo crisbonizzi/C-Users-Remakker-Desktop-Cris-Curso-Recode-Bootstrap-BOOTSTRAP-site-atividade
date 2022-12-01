@@ -1,2 +1,2 @@
-# C:\Users\Remakker\Desktop\Cris\Curso Recode\Bootstrap\BOOTSTRAP\site atividade
+# site atividade usando Boostrap
 Primeira atividade usando Bootstrap
